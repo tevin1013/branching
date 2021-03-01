@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+ }
+.btn-register {
+    color: white;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    background-color: green;
+ }
